@@ -51,14 +51,14 @@ public class TemanFragment extends Fragment {
         temanAdapter = new TemanAdapter(temanArrayList);
         RecyclerView.LayoutManager layoutManager = new LinearLayoutManager(getActivity());
         recyclerView.setLayoutManager(layoutManager);
-        temanArrayList.add(new Teman("10116596", "Salma Fauziyyah", "IF-3",
-                "083112646979","salmafauziyyah1@gmail.com","@salmafyh",R.drawable.salmafauziyyah));
+        temanArrayList.add(new Teman("10116121", "Muhammad Iskandar", "IF-3",
+                "085720353550","misimatupang@gmail.com","@masimatupang",R.drawable.ndar));
         temanArrayList.add(new Teman("10116130", "Siti Ayu Melinda", "IF-3",
                 "083112646979","sitiayumelinda@gmail.com","@melinda",R.drawable.melinda));
         temanArrayList.add(new Teman("10116596", "Aghnia Niamillah Nurhilman", "IF-3",
-                "083112646979","salmafauziyyah1@gmail.com","@salmafyh",R.drawable.aghni));
+                "08xx","aghnianiamillah@gmail.com","@niamillah",R.drawable.aghni));
         temanArrayList.add(new Teman("10116596", "Aini Izza", "IF-3",
-                "083112646979","salmafauziyyah1@gmail.com","@salmafyh",R.drawable.aini));
+                "08xxx","ainiizza@gmail.com","@ainiizza",R.drawable.aini));
 
 
         iFab.setOnClickListener(new View.OnClickListener() {
