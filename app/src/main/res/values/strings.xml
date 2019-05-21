@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UTSAKB</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_kontak">Kontak</string>
+    <string name="nav_teman">Teman</string>
+    <string name="nim">10116120</string>
+    <string name="Nama">MOCHAMAD IQBAL SEPTYAN</string>
+    <string name="Kelas">IF-3</string>
+    <string name="NomorQu">082121812600</string>
+    <string name="EmailQu">iqbalseptyan16@gmail.com</string>
+    <string name="SosmedQu">https://www.facebook.com/iqbal.septyan</string>
+</resources>
